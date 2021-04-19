@@ -1,0 +1,2 @@
+- 👋 Hi, I’m DevilishKnight
+- I'm still a front-end newbie dev
